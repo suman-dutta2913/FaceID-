@@ -1,1 +1,1 @@
-# FaceID-
+This is a Real Time Facial Verification model wherin the model only recognises my face and any other input images other than my face would be deemed as negative or 'not verified'. It can also be explained as a minimalistic face ID which allows access to the device only when the already registered face undergoes real time verification.
